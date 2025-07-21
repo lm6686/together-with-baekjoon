@@ -4,6 +4,7 @@
 제목과 내용 : 다음 소수
 문제 링크 : https://www.acmicpc.net/problem/4134
 입출력 예시
+
 입력 :            
 3                 
 6
